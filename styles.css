@@ -3,7 +3,7 @@ body {
 }
 .big-container {
     display: flex;
-    width: 100%;
+    width: 960px;
     flex-direction: column;
 }
 
@@ -15,7 +15,5 @@ body {
     background-color: pink;
     border: white 1px solid;
     margin: 0;
-    width: 6.25%;
-    padding-bottom: 6.25%;
     height: 0;
 }
