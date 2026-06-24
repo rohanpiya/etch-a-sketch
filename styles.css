@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+}
+.big-container {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+
+.small-container {
+    display: flex;
+}
